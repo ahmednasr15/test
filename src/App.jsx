@@ -8,7 +8,7 @@ function App() {
   }
   useEffect(() => {
     handleLang()
-  }, [lang])
+  }, [])
   
   return (
     <div className="App">
